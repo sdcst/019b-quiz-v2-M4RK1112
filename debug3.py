@@ -5,4 +5,4 @@ one on each line
 """
 people = ["Hannah","Bowen","Jane"]
 for people in list do:
-    print(people)
+    print(people='\n')
